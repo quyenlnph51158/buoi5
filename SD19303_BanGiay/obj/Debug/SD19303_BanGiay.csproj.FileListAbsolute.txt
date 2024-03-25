@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.exe.config
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.exe
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.pdb
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.exe
+\\Mac\Home\Desktop\NET101\SD19303_BanGiay\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.pdb
+D:\baitap\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.exe.config
+D:\baitap\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.exe
+D:\baitap\SD19303_BanGiay\bin\Debug\SD19303_BanGiay.pdb
+D:\baitap\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.csproj.AssemblyReference.cache
+D:\baitap\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.csproj.CoreCompileInputs.cache
+D:\baitap\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.exe
+D:\baitap\SD19303_BanGiay\obj\Debug\SD19303_BanGiay.pdb
